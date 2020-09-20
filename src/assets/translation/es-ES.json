@@ -1,0 +1,25 @@
+{
+    "label.app": "Clínica Veterinaria Nueva Ñuñoa",
+    "label.login": "Login",
+    "label.logout": "Logout",
+    "label.name": "Nombre",
+    "label.date": "Fecha",
+    "label.services": "Servicio",
+    "label.add.booking": "Agregar Reserva",
+    "Consulta general": "Consulta general",
+    "Oftalmología": "Oftalmología",
+    "Cardiología": "Cardiología",
+    "label.success": "Éxito",
+    "label.required": "Campo Requerido",
+    "label.add.success": "Agregado Exitosamente",
+    "label.error": "Error",
+    "label.exists": "Hora seleccionada, ya se encuentra ocupada. Favor reservar en otro horario",
+    "label.user": "Usuario",
+    "label.pass": "Contraseña",
+    "label.login.error": "Error al logearse. Revise sus credenciales",
+    "label.login.success": "Logeo exitoso",
+    "label.list.bookings": "Lista de reservas",
+    "label.no.data": "No hay reservas"
+
+
+}

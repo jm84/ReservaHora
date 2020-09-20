@@ -1,0 +1,23 @@
+{
+    "label.app": "Clínica Veterinaria Nueva Ñuñoa",
+    "label.login": "Login",
+    "label.logout": "Logout",
+    "label.name": "Name",
+    "label.date": "Date",
+    "label.services": "Services",
+    "label.add.booking": "Add Booking",
+    "Consulta general": "General Med",
+    "Oftalmología": "Oftalmology",
+    "Cardiología": "Cardiology",
+    "label.success": "Success",
+    "label.required": "Field required",
+    "label.add.success": "Add Success",
+    "label.error": "Error",
+    "label.exists": "Booking Exists",
+    "label.user": "User",
+    "label.pass": "Password",
+    "label.login.error": "Error please check your credentials",
+    "label.login.success": "Success",
+    "label.list.bookings": "List of bookings",
+    "label.no.data": "dont have bookings"
+}
